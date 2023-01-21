@@ -4,7 +4,7 @@ Website criado no programa Programaria.
 
 LINGUAGENS 
 => HTML
-=> CDD
+=> CSS
 => JAVASCRIPT
 
 //LEILANE NEGRINHO
