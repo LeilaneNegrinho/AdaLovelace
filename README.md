@@ -1,2 +1,10 @@
-# AdaLovelace
-Criação de site HTML, CSS e JS com Programaria
+# Website AdaLovelace
+
+Website criado no programa Programaria.
+
+LINGUAGENS 
+=> HTML
+=> CDD
+=> JAVASCRIPT
+
+//LEILANE NEGRINHO
